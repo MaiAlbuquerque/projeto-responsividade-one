@@ -1,0 +1,120 @@
+* { 
+    margin:0px;
+    padding:0px;
+}
+
+header{
+    max-width: 100%;
+    padding: 15px;
+    
+}
+
+header h1{
+   
+    font-size: 26px;
+}
+
+nav{
+    
+    max-width: 100%;
+}
+
+ul{
+    max-width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+
+li {
+    text-decoration: none; 
+    display: inline;   
+    color: white; 
+    font-weight: 300; 
+    padding: 15.1px;
+   
+  }
+
+  p{
+    max-width: 100%;
+    font-size: 15px;
+    text-align: justify;
+    font-weight: 300;
+   
+  }
+
+  .bloco1{
+
+    max-width: 100%;
+    padding: 5px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+
+  img{
+    
+    max-width: 100%;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.449);
+  
+}
+
+aside{
+  
+    max-width: 96%;
+    background-color: #7ea6d6;
+    border: #7ea6d6 solid 4px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.449);
+  
+    
+   
+}
+
+form {
+    
+    max-width: 70%;
+   
+   
+  
+}
+
+textarea {
+    width: 50%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    
+}
+
+
+.container {
+text-align: center;
+   display: block;
+   margin: 0px;
+   padding: 5px;
+}
+
+.block {
+    margin: 10px;
+    padding: 5px;
+    max-width: 100%;
+}
+
+footer {
+    max-width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.social-icons a {
+    display:inline-flex;
+  
+}
+
+.social-icons img {
+    width: 20px;
+    height: 20px;
+}
